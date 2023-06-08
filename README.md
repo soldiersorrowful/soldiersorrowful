@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soldiersorrowful
 - 👀 I’m interested in... (game dev)
-- 🌱 I’m currently learning... (gdscript, lua, python, c#)
+- 🌱 I’m currently learning... (gdscript, lua, python, c#, java)
 - 💞️ I’m looking to collaborate on... (nothing, atm)
 - 📫 How to reach me... (https://soldier-sorrowful.itch.io/)
 
